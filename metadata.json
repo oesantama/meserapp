@@ -1,0 +1,7 @@
+{
+  "name": "MultiNegocio",
+  "description": "App de gestión para negocios con múltiples rubros, menú del día personalizado, pedidos por QR de mesa, modo offline tablet y sincronización",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
